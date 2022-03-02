@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krutik Gadhiya</h1>
-<h3 align="center">A passionate developer and learner from India</h3>
+<h3 align="center">A enthusiast developer and learner from India</h3>
 <br/>
 <p align="left"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKrutikGadhiya&count_bg=%233D81C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false"/></p>
 
