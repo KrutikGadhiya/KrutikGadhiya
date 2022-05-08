@@ -1,6 +1,6 @@
 <h1  align="center">Hi 👋 My name is Krutik Gadhiya</h1>
 
-<h2  align="center">Web Developer ( 🎯Fullstack Developer )</h2>
+<h3  align="center">Web Developer ( 🎯Fullstack Developer )</h3>
 
 <h3  align="center">An Enthusiast Developer and Learner</h3>
 
