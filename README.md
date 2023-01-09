@@ -5,7 +5,7 @@
 <h3  align="center">An Enthusiast Developer and Learner</h3>
 
 - 🌍  I'm based in India
-- 🖥️  See my portfolio at [My Portofolio](http://krutikgadhiya.tech)
+- 🖥️  See my portfolio at [My Portofolio](http://krutikgadhiya.codes)
 - ✉️  You can contact me at [krutikgadhiya@gmail.com](mailto:krutikgadhiya@gmail.com)
 - 🧠  I'm learning Fullstack, NextJs, Cloud
 <br/>
